@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  client:
+    mode: feign
+  datasource:
+    url: recruitment-db
+    username: postgres
+    password: postgres
