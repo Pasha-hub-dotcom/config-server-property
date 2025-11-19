@@ -4,6 +4,6 @@ spring:
   client:
     mode: feign
   datasource:
-    url: recruitment-db
+    url: jdbc:postgresql://localhost:55433/recruitment-db
     username: postgres
     password: postgres
