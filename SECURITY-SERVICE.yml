@@ -1,6 +1,2 @@
-my:
-  custom:
-    name: ddddd
-
 server:
   port: 8083

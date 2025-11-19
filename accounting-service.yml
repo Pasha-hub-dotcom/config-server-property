@@ -1,3 +1,2 @@
-spring:
-  config:
-     nam: ddddd
+server:
+  port: 8082
