@@ -1,3 +1,5 @@
+app:
+  namename: саша
 server:
   port: 8081
 spring:
